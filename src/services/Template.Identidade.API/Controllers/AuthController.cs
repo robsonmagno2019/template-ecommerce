@@ -4,6 +4,7 @@ using Template.Identidade.API.Models;
 
 namespace Template.Identidade.API.Controllers
 {
+    [ApiController]
     [Route("api/identidade")]
     public class AuthController : Controller
     {
