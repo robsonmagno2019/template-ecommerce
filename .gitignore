@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs/Template/FileContentIndex
+/src/services/Template.Carrinho.API/bin/Debug/net8.0
+/src/services/Template.Catalogo.API/bin/Debug/net8.0
+/src/services/Template.Cliente.API/bin/Debug/net8.0
+/src/services/Template.Cliente.API/obj/Debug/net8.0
+/src/services/Template.Identidade.API/bin/Debug/net8.0
+/src/services/Template.Identidade.API/obj/Debug/net8.0
+/src/services/Template.Pagamento.API
+/src/services/Template.Pedido.API
+/src/web/Template.WebApp.MVC
+/src/building blocks/Template.Core
