@@ -1,0 +1,6 @@
+@Template.Pagamento.API_HostAddress = http://localhost:5132
+
+GET {{Template.Pagamento.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
