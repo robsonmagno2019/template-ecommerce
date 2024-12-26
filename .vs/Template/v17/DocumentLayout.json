@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Robinho\\source\\repos\\Template\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\services\\template.identidade.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|solutionrelative:src\\services\\template.identidade.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\services\\template.identidade.api\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|solutionrelative:src\\services\\template.identidade.api\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 105,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\services\\Template.Identidade.API\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\services\\Template.Identidade.API\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:36:12.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\services\\Template.Identidade.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Program.cs",
+              "RelativeToolTip": "src\\services\\Template.Identidade.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:31:38.184Z",
+              "EditorCaption": ""
             }
           ]
         }
