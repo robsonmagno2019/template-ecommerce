@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Robinho\\source\\repos\\Template\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\services\\template.identidade.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|solutionrelative:src\\services\\template.identidade.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\services\\template.identidade.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|solutionrelative:src\\services\\template.identidade.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\services\\template.identidade.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\services\\template.identidade.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|solutionrelative:src\\services\\template.identidade.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\services\\template.identidade.api\\extentions\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|solutionrelative:src\\services\\template.identidade.api\\extentions\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +31,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "src\\services\\Template.Identidade.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\appsettings.Development.json*",
-              "RelativeToolTip": "src\\services\\Template.Identidade.API\\appsettings.Development.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-28T19:24:57.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Extentions\\AppSettings.cs",
-              "RelativeDocumentMoniker": "src\\services\\Template.Identidade.API\\Extentions\\AppSettings.cs",
-              "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Extentions\\AppSettings.cs",
-              "RelativeToolTip": "src\\services\\Template.Identidade.API\\Extentions\\AppSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "src\\services\\Template.Identidade.API\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Controllers\\MainController.cs",
+              "RelativeToolTip": "src\\services\\Template.Identidade.API\\Controllers\\MainController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T03:40:42.323Z"
+              "WhenOpened": "2024-12-28T19:38:39.03Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -65,7 +49,7 @@
               "RelativeDocumentMoniker": "src\\services\\Template.Identidade.API\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "src\\services\\Template.Identidade.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowFgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEcAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T03:28:06.141Z",
               "EditorCaption": ""
