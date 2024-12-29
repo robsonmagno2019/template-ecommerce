@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Robinho\\source\\repos\\Template\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\services\\template.identidade.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|solutionrelative:src\\services\\template.identidade.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\services\\template.identidade.api\\extentions\\identitymensagensportugues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|solutionrelative:src\\services\\template.identidade.api\\extentions\\identitymensagensportugues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\services\\template.identidade.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|solutionrelative:src\\services\\template.identidade.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\services\\template.identidade.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|solutionrelative:src\\services\\template.identidade.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\services\\template.identidade.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{577E529A-54DF-4C42-BC6C-BD80EE8AA3EA}|src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj|solutionrelative:src\\services\\template.identidade.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 105,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IdentityMensagensPortugues.cs",
+              "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Extentions\\IdentityMensagensPortugues.cs",
+              "RelativeDocumentMoniker": "src\\services\\Template.Identidade.API\\Extentions\\IdentityMensagensPortugues.cs",
+              "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Extentions\\IdentityMensagensPortugues.cs",
+              "RelativeToolTip": "src\\services\\Template.Identidade.API\\Extentions\\IdentityMensagensPortugues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:11:21.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainController.cs",
               "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Controllers\\MainController.cs",
               "RelativeDocumentMoniker": "src\\services\\Template.Identidade.API\\Controllers\\MainController.cs",
@@ -43,26 +60,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "src\\services\\Template.Identidade.API\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "src\\services\\Template.Identidade.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowE4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T03:28:06.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Program.cs",
               "RelativeDocumentMoniker": "src\\services\\Template.Identidade.API\\Program.cs",
               "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\services\\Template.Identidade.API\\Program.cs",
               "RelativeToolTip": "src\\services\\Template.Identidade.API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T03:15:30.403Z",
               "EditorCaption": ""
