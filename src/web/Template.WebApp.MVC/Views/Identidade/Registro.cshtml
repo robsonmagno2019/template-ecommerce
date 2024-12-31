@@ -1,5 +1,49 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model UsuarioRegistro
+
 @{
+    ViewData["Title"] = "Registro";
+}
+
+<h1>@ViewData["Title"]</h1>
+<div class="row">
+    <div class="col-md-12">
+        <section>
+            <form method="post">
+                <h4>Registre-se e comece a comprar hoje mesmo</h4>
+                <hr />
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <label asp-for="Email"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <label asp-for="Senha"></label>
+                        <input asp-for="Senha" class="form-control" />
+                        <span asp-validation-for="Senha" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <label asp-for="SenhaConfirmacao"></label>
+                        <input asp-for="SenhaConfirmacao" class="form-control" />
+                        <span asp-validation-for="SenhaConfirmacao" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="col-md-12">
+                    <button type="submit" class="btn btn-primary">Enviar</button>
+                </div>
+            </form>
+        </section>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
 }
