@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\services\\Template.Identidade.API\\Template.Identidade.API.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS - Dev"
+      },
+      {
+        "Path": "src\\web\\Template.WebApp.MVC\\Template.WebApp.MVC.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]
