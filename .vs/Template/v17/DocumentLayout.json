@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Robinho\\source\\repos\\Template\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF4AF6FD-F4C7-49BD-AE8D-FEC7027B479D}|src\\web\\Template.WebApp.MVC\\Template.WebApp.MVC.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\web\\template.webapp.mvc\\controllers\\identidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4AF6FD-F4C7-49BD-AE8D-FEC7027B479D}|src\\web\\Template.WebApp.MVC\\Template.WebApp.MVC.csproj|solutionrelative:src\\web\\template.webapp.mvc\\controllers\\identidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4AF6FD-F4C7-49BD-AE8D-FEC7027B479D}|src\\web\\Template.WebApp.MVC\\Template.WebApp.MVC.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\web\\template.webapp.mvc\\services\\iautenticacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4AF6FD-F4C7-49BD-AE8D-FEC7027B479D}|src\\web\\Template.WebApp.MVC\\Template.WebApp.MVC.csproj|solutionrelative:src\\web\\template.webapp.mvc\\services\\iautenticacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4AF6FD-F4C7-49BD-AE8D-FEC7027B479D}|src\\web\\Template.WebApp.MVC\\Template.WebApp.MVC.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\web\\template.webapp.mvc\\services\\autenticacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4AF6FD-F4C7-49BD-AE8D-FEC7027B479D}|src\\web\\Template.WebApp.MVC\\Template.WebApp.MVC.csproj|solutionrelative:src\\web\\template.webapp.mvc\\services\\autenticacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4AF6FD-F4C7-49BD-AE8D-FEC7027B479D}|src\\web\\Template.WebApp.MVC\\Template.WebApp.MVC.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\web\\template.webapp.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4AF6FD-F4C7-49BD-AE8D-FEC7027B479D}|src\\web\\Template.WebApp.MVC\\Template.WebApp.MVC.csproj|solutionrelative:src\\web\\template.webapp.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4AF6FD-F4C7-49BD-AE8D-FEC7027B479D}|src\\web\\Template.WebApp.MVC\\Template.WebApp.MVC.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\web\\template.webapp.mvc\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4AF6FD-F4C7-49BD-AE8D-FEC7027B479D}|src\\web\\Template.WebApp.MVC\\Template.WebApp.MVC.csproj|solutionrelative:src\\web\\template.webapp.mvc\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF4AF6FD-F4C7-49BD-AE8D-FEC7027B479D}|src\\web\\Template.WebApp.MVC\\Template.WebApp.MVC.csproj|c:\\users\\robinho\\source\\repos\\template\\src\\web\\template.webapp.mvc\\views\\identidade\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BF4AF6FD-F4C7-49BD-AE8D-FEC7027B479D}|src\\web\\Template.WebApp.MVC\\Template.WebApp.MVC.csproj|solutionrelative:src\\web\\template.webapp.mvc\\views\\identidade\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -39,19 +59,83 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Views\\Identidade\\Login.cshtml",
-              "RelativeDocumentMoniker": "src\\web\\Template.WebApp.MVC\\Views\\Identidade\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Views\\Identidade\\Login.cshtml",
-              "RelativeToolTip": "src\\web\\Template.WebApp.MVC\\Views\\Identidade\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-31T22:08:37.531Z",
+              "Title": "IdentidadeController.cs",
+              "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Controllers\\IdentidadeController.cs",
+              "RelativeDocumentMoniker": "src\\web\\Template.WebApp.MVC\\Controllers\\IdentidadeController.cs",
+              "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Controllers\\IdentidadeController.cs",
+              "RelativeToolTip": "src\\web\\Template.WebApp.MVC\\Controllers\\IdentidadeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:22:26.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AutenticacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Services\\AutenticacaoService.cs",
+              "RelativeDocumentMoniker": "src\\web\\Template.WebApp.MVC\\Services\\AutenticacaoService.cs",
+              "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Services\\AutenticacaoService.cs",
+              "RelativeToolTip": "src\\web\\Template.WebApp.MVC\\Services\\AutenticacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:22:02.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "src\\web\\Template.WebApp.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Program.cs",
+              "RelativeToolTip": "src\\web\\Template.WebApp.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:21:35.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjectionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Configuration\\DependencyInjectionConfig.cs",
+              "RelativeDocumentMoniker": "src\\web\\Template.WebApp.MVC\\Configuration\\DependencyInjectionConfig.cs",
+              "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Configuration\\DependencyInjectionConfig.cs",
+              "RelativeToolTip": "src\\web\\Template.WebApp.MVC\\Configuration\\DependencyInjectionConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:18:53.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAutenticacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Services\\IAutenticacaoService.cs",
+              "RelativeDocumentMoniker": "src\\web\\Template.WebApp.MVC\\Services\\IAutenticacaoService.cs",
+              "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Services\\IAutenticacaoService.cs",
+              "RelativeToolTip": "src\\web\\Template.WebApp.MVC\\Services\\IAutenticacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T22:13:13.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Views\\Identidade\\Login.cshtml",
+              "RelativeDocumentMoniker": "src\\web\\Template.WebApp.MVC\\Views\\Identidade\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Views\\Identidade\\Login.cshtml",
+              "RelativeToolTip": "src\\web\\Template.WebApp.MVC\\Views\\Identidade\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T22:08:37.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "src\\web\\Template.WebApp.MVC\\wwwroot\\css\\site.css",
@@ -59,12 +143,11 @@
               "RelativeToolTip": "src\\web\\Template.WebApp.MVC\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-31T22:05:47.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T22:05:47.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "WebAppConfig.cs",
               "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Configuration\\WebAppConfig.cs",
               "RelativeDocumentMoniker": "src\\web\\Template.WebApp.MVC\\Configuration\\WebAppConfig.cs",
@@ -72,12 +155,11 @@
               "RelativeToolTip": "src\\web\\Template.WebApp.MVC\\Configuration\\WebAppConfig.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T21:56:35.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T21:56:35.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "src\\web\\Template.WebApp.MVC\\Views\\Shared\\_Layout.cshtml",
@@ -85,12 +167,11 @@
               "RelativeToolTip": "src\\web\\Template.WebApp.MVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-31T21:42:28.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T21:42:28.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Registro.cshtml",
               "DocumentMoniker": "C:\\Users\\Robinho\\source\\repos\\Template\\src\\web\\Template.WebApp.MVC\\Views\\Identidade\\Registro.cshtml",
               "RelativeDocumentMoniker": "src\\web\\Template.WebApp.MVC\\Views\\Identidade\\Registro.cshtml",
@@ -98,8 +179,7 @@
               "RelativeToolTip": "src\\web\\Template.WebApp.MVC\\Views\\Identidade\\Registro.cshtml",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwCIAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-31T21:03:17.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T21:03:17.458Z"
             }
           ]
         }

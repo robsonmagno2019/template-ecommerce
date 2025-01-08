@@ -22,6 +22,8 @@ namespace Template.WebApp.MVC.Services
 
             var response = await _httpClient.PostAsync("https://localhost:44316/api/identidade/autenticar", loginContent);
 
+            var json = await response.Content.ReadAsStringAsync();
+
             return await Task.FromResult("");
         }
 
@@ -33,6 +35,8 @@ namespace Template.WebApp.MVC.Services
                 "application/json");
 
             var response = await _httpClient.PostAsync("https://localhost:44316/api/identidade/autenticar", registroContent);
+
+            var json = await response.Content.ReadAsStringAsync();
 
             return await Task.FromResult("");
         }

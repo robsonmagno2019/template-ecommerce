@@ -18,6 +18,8 @@ builder.Services.AddIdentityConfiguration();
 // Add services to the container.
 builder.Services.AddMvcConfiguration();
 
+builder.Services.RegisterServices();
+
 var app = builder.Build();
 
 app.UseMvcConfiguration(builder.Environment);

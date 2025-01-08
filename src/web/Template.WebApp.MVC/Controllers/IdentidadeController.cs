@@ -1,10 +1,18 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Template.WebApp.MVC.Models;
+using Template.WebApp.MVC.Services;
 
 namespace Template.WebApp.MVC.Controllers
 {
     public class IdentidadeController : Controller
     {
+        private readonly IAutenticacaoService _autenticacaoService;
+
+        public IdentidadeController(IAutenticacaoService autenticacaoService)
+        {
+            _autenticacaoService = autenticacaoService;
+        }
+
         [HttpGet]
         [Route("nova-conta")]
         public IActionResult Registro()
@@ -19,6 +27,7 @@ namespace Template.WebApp.MVC.Controllers
             if(!ModelState.IsValid) return View(usuarioRegistro);
 
             // API - Registro
+            var resposta = await _autenticacaoService.Registro(usuarioRegistro);
 
             if (false) return View(usuarioRegistro);
 
@@ -41,6 +50,7 @@ namespace Template.WebApp.MVC.Controllers
             if(!ModelState.IsValid) return View(usuarioLogin);
 
             // API - Login
+            var resposta = await _autenticacaoService.Login(usuarioLogin);
 
             if(false) return View(usuarioLogin);
 
